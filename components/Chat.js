@@ -12,7 +12,6 @@ class Chat extends Component {
     }
 
     componentDidMount() {
-
         this.socket = io('http://172.24.32.46:3333', {transports: ['websocket']});
         this.socket.on('chat message', (msg) => this.changeState(msg))
     }
@@ -36,10 +35,7 @@ class Chat extends Component {
         })
     }
 
-
     render() {
-
-
         return (
             <View>
                 <View>

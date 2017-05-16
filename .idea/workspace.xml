@@ -109,18 +109,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="chat-message-refactor.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chat-message-refactor.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Message.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/components/Message.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -648,12 +636,12 @@
       <updated>1494637196981</updated>
       <workItem from="1494637198368" duration="6007000" />
       <workItem from="1494643939543" duration="1785000" />
-      <workItem from="1494873079631" duration="7885000" />
+      <workItem from="1494873079631" duration="8005000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15677000" />
+    <option name="totallyTimeSpent" value="15797000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="13" y="23" width="2547" height="1413" extended-state="6" />
@@ -879,9 +867,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
