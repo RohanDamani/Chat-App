@@ -7,8 +7,8 @@ export default class App extends React.Component {
   render() {
     return (
         <View style={{ flex: 1 }}>
-  <Header headerText="Rohan's Fucking Chat App"/>
-        <Chat />
+          <Header headerText="Rohan's Chat App"/>
+          <Chat />
         </View>
   );
   }
