@@ -3,20 +3,20 @@
 
 This app uses socket.io on an express server, and within react native app.
 
-Required: 
+Required:  
 
-NodeJS
-XCode
-Watchman
+NodeJS 
+XCode 
+Watchman 
 
 To Run:
 
-clone the repo
-git install
-node index.js (starts the browser client and backened)
-npm run ios (bundles and renders /components/Chat.js in xCode Simulator)
+`git clone https://github.com/RohanDamani/Chat-App.git` 
+`npm install` 
+`node index.js` (starts the browser client and backened) 
+`npm run ios` (bundles and renders /components/Chat.js in xCode Simulator) 
 
-
+ 
 You can then open multiple browser windows on localhost:3333 and send and receive messages with the react-native app
 
 See below for more information on running the react-native app
