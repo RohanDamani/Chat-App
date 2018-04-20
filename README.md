@@ -9,12 +9,12 @@ NodeJS
 XCode 
 Watchman 
 
-To Run:
+To Run:<br/><br/>
 
-`git clone https://github.com/RohanDamani/Chat-App.git` 
-`npm install` 
-`node index.js` (starts the browser client and backened) 
-`npm run ios` (bundles and renders /components/Chat.js in xCode Simulator) 
+`git clone https://github.com/RohanDamani/Chat-App.git` <br/>
+`npm install` <br/>
+`node index.js` (starts the browser client and backened) <br/>
+`npm run ios` (bundles and renders /components/Chat.js in xCode Simulator) <br/>
 
  
 You can then open multiple browser windows on localhost:3333 and send and receive messages with the react-native app
