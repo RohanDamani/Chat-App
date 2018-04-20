@@ -1,7 +1,7 @@
 
 ## React-Native Chat App
 
-This app uses socket.io on an express server, and connected to a react native app.
+This app uses socket.io on an express server, and connects to a react native app.
 
 Required:  
 
